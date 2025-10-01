@@ -1,2 +1,1 @@
-김지현
-20221048
+Project02completed
